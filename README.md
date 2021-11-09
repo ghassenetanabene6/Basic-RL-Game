@@ -8,7 +8,7 @@ Applying basic Reinforcement Learning principles using the Snake game in Python
 We can run the snake game using a saved model ```./saved/Q-model.pickle``` with this command line :
 
 ```shell
-!python python Q-learning.py play
+!python Q-learning.py play
 ```
 
 ## Train 
@@ -16,7 +16,7 @@ We can run the snake game using a saved model ```./saved/Q-model.pickle``` with 
 To start a new training, we run the following command line : 
 
 ```shell
-!python python Q-learning.py train
+!python Q-learning.py train
 ```
 
 ## Demo :  
