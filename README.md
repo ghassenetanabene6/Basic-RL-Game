@@ -21,3 +21,10 @@ To start a new training, we run the following command line :
 
 ## Demo :  
 <img src="./Images/demo.gif">
+
+
+✉️ **Contact :**
+
+email : ghassene.tanabene@gmail.com
+
+linkedin : https://www.linkedin.com/in/ghassene-tanabene/
