@@ -25,6 +25,6 @@ To start a new training, we run the following command line :
 
 ✉️ **Contact :**
 
-email : ghassene.tanabene@gmail.com
+Email : ghassene.tanabene@gmail.com
 
-linkedin : https://www.linkedin.com/in/ghassene-tanabene/
+Linkedin : https://www.linkedin.com/in/ghassene-tanabene/
