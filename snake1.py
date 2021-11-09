@@ -3,7 +3,7 @@ import numpy as np
 from time import sleep
 
 screenSize = {'x': 700,'y':600}
-FPS = 50
+FPS = 10
 direction = 'RIGHT'
 change_to = direction
 colors = {
